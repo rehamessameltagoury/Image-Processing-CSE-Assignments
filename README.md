@@ -1,26 +1,26 @@
 # Image-Processing-CSE-Assignments
 
 
-## Introduction
+# Introduction
 
 
 
-## Installation
+# Installation
    
    
-   # Python installation
+   ## Python installation
    
        
        
      ** incase the python eviroment didn't work u can use anaconda enviroment :
       27ot youtube link leh
       
-   # Jupyter installation :
+   ## Jupyter installation :
    
    
-   # Libararies :
+   ## Libararies :
    
-## shr7 lel assignments
+# shr7 lel assignments
   
 
 
