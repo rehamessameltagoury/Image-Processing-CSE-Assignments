@@ -1,24 +1,16 @@
 # Image-Processing-CSE-Assignments
-
-
-# Introduction
-
-
-
-# Installation
    
-   
-   ## Python installation
+# Python installation
        https://www.youtube.com/watch?v=4Rx_JRkwAjY
       
 # Jupyter installation :
-   # conda
+   ## conda
    It is recommended to install Python and Jupyter using the conda package manager. The miniconda distribution includes a minimal Python and conda installation.
 
    Then you can install the notebook with:
 
                conda install -c conda-forge notebook
-   # pip
+   ## pip
    If you use pip, you can install it with:
 
                pip install notebook
