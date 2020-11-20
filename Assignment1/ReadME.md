@@ -4,4 +4,4 @@
 <li> Histogram </li>
 <li> Image channels</li> 
 <li> Masks</li> 
-<li> Changing the backgrond using masks</li></ol>
+<li> Changing the background using masks</li></ol>
